@@ -1,0 +1,66 @@
+C:\Users\atl\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\atl\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\atl\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\atl\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\atl\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\atl\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\atl\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\atl\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+F:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+F:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+F:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+F:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+F:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\ResolveAssemblyReference.cache
+F:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+F:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+F:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+G:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+G:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+G:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+G:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+G:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\ResolveAssemblyReference.cache
+G:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+G:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+G:\c# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Lab1\Desktop\C# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Lab1\Desktop\C# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Lab1\Desktop\C# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Lab1\Desktop\C# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Lab1\Desktop\C# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lab1\Desktop\C# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Lab1\Desktop\C# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Lab1\Desktop\C# prog\12.10.2011\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\lab2\Desktop\kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\lab2\Desktop\kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\lab2\Desktop\kişi tanıma formuu\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\lab2\Desktop\kişi tanıma formuu\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\lab2\Desktop\kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lab2\Desktop\kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\lab2\Desktop\kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\!D_surucusu\uygulamalar\NTP\09112012_kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+E:\!D_surucusu\uygulamalar\NTP\09112012_kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+F:\NTP\3_kasım\09112012_kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+F:\NTP\3_kasım\09112012_kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+F:\NTP\3_kasım\09112012_kişi tanıma formuu\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+F:\NTP\3_kasım\09112012_kişi tanıma formuu\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+F:\NTP\3_kasım\09112012_kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+F:\NTP\3_kasım\09112012_kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+F:\NTP\3_kasım\09112012_kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\BETUL\NTP_2017_2018\6.Hafta\09112012_kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\BETUL\NTP_2017_2018\6.Hafta\09112012_kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\BETUL\2019-2020_NTP_11D\4.Hafta\09112012_kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\BETUL\2019-2020_NTP_11D\4.Hafta\09112012_kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\BETUL\2019-2020_NTP_11D\4.Hafta\09112012_kişi tanıma formuu\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\BETUL\2019-2020_NTP_11D\4.Hafta\09112012_kişi tanıma formuu\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\BETUL\2019-2020_NTP_11D\4.Hafta\09112012_kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\BETUL\2019-2020_NTP_11D\4.Hafta\09112012_kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\BETUL\2019-2020_NTP_11D\4.Hafta\09112012_kişi tanıma formuu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Mert\Desktop\Yazılım\Yeni Form Projeleri\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\Yazılım\Yeni Form Projeleri\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Mert\Desktop\Yazılım\Yeni Form Projeleri\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Mert\Desktop\Yazılım\Yeni Form Projeleri\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\Yazılım\Yeni Form Projeleri\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Yazılım\Yeni Form Projeleri\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Mert\Desktop\Yazılım\Yeni Form Projeleri\kişi tanıma formu\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Mert\Desktop\Yazılım\Yeni Form Projeleri\kişi tanıma formu\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Mert\Desktop\Yazılım\Yeni Form Projeleri\kişi tanıma formu\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
